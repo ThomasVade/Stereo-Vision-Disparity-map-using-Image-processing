@@ -9,4 +9,4 @@ python imgsplit.py
 
 filteredImg is the depth map. filteredImg is a 16bit image if you convert it to 8 bit you will get disparity images.
 
-In disparity nearer objects are high intensity and intensity decreases as distance increase.
+In disparity map, nearer objects have high intensity and intensity decreases as distance increases.
